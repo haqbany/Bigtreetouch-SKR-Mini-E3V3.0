@@ -11,3 +11,6 @@ Discover the latest advancements in 3D printer firmware with the optimized BIGTR
 Upgrade your 3D printer today with the optimized firmware for BIGTREETECH SKR Mini E3 V3.0 and unlock the full potential of your 3D printing experience.
 
 **Please note**: This release contains source files only for the Bigtreetouch-SKR-Mini-E3V3.0.
+
+if you like to donate !
+https://paypal.me/Makerbuild3d?country.x=BH&locale.x=en_US
