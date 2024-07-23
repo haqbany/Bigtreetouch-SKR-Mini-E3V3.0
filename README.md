@@ -30,3 +30,10 @@ or is there another problem you need help with? Additionally, please share the t
 here is 2 solution   
 https://github.com/haqbany/SKR-Mini-E3-3.0/issues/1
 
+https://github.com/user-attachments/files/16087637/firmware.bin.zip
+this is revert e stepper " INVERT_E0_DIR true //RH "
+
+https://github.com/user-attachments/files/16087671/firmware.bin.zip
+this normal e stepper " INVERT_E0_DIR false //RH "
+
+best of luck  
