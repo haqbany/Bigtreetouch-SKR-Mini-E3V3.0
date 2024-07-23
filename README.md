@@ -17,3 +17,16 @@ Best regards,
 RH DAV
 if you like to Support !
 https://paypal.me/Makerbuild3d?country.x=BH&locale.x=en_USo
+
+
+Important update ,
+
+here is latest update 
+https://github.com/haqbany/SKR-Mini-E3-3.0/releases/tag/5.0ts 
+
+Could you please provide more details about the specific issue you are facing? Are you having trouble with the extruder direction, 
+or is there another problem you need help with? Additionally, please share the two firmware files you mentioned so I can assist you better.
+
+here is 2 solution   
+https://github.com/haqbany/SKR-Mini-E3-3.0/issues/1
+
